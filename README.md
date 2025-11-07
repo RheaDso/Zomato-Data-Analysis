@@ -1,10 +1,12 @@
 ## Zomato Data Analysis
 
 Overview:
+
 Analyzed Zomato restaurant dataset to extract insights on ratings, cuisines, pricing, and customer preferences.
 Performed data cleaning, visualization, and exploratory analysis.
 
 Tools & Libraries:
+
 Python, Pandas, NumPy, Matplotlib, Seaborn
 
 Steps:
